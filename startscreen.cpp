@@ -1,7 +1,7 @@
 #include "startscreen.h"
 #include "ui_startscreen.h"
 
-#include <code/questionentry.h>
+#include "code/questionentry.h"
 startscreen::startscreen(QWidget *parent) :
     QDialog(parent),
     ui(new Ui::startscreen)

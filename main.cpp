@@ -1,7 +1,7 @@
 
 #include <QApplication>
 #include "kbc.h"
-#include<startscreen.h>
+#include "startscreen.h"
 
 int main(int argc, char *argv[])
 {

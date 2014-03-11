@@ -1,11 +1,11 @@
 #include "kbc.h"
 #include "ui_kbc.h"
 #include <QObject>
-#include <code/question.h>
+#include "code/question.h"
 #include <iostream>
-#include <resultofquestion.h>
-#include <code/audiencepolldialog.h>
-#include <code/about.h>
+#include "resultofquestion.h"
+#include "code/audiencepolldialog.h"
+#include "code/about.h"
 
 using namespace std;
 

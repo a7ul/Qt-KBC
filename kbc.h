@@ -1,6 +1,6 @@
 #ifndef KBC_H
 #define KBC_H
-#include <resultofquestion.h>
+#include "resultofquestion.h"
 #include <QMainWindow>
 #include "code/filehandle.h"
 namespace Ui

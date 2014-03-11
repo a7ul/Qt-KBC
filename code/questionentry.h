@@ -1,7 +1,7 @@
 #ifndef QUESTIONENTRY_H
 #define QUESTIONENTRY_H
-#include<code/filehandle.h>
-#include<code/question.h>
+#include "filehandle.h"
+#include "question.h"
 #include <QDialog>
 
 namespace Ui {
